@@ -33,14 +33,6 @@
 
 ---
 
-## 📫 Connect with me
-
-- 📧 aditikamble111@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditi-kamble/)  
-- 🧠 [My Projects](https://github.com/aditikamble111?tab=repositories)
-
----
-
 > “Turning data into insights and insights into action.”
 
 Thanks for stopping by! 🌟
